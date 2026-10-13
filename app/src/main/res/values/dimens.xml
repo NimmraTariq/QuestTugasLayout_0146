@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="screen_horizontal_padding">21dp</dimen>
+    <dimen name="header_top_spacing">24dp</dimen>
+    <dimen name="header_title_size">24sp</dimen>
+    <dimen name="header_subtitle_size">14sp</dimen>
+    <dimen name="header_bottom_spacing">18dp</dimen>
+    <dimen name="card_height">108dp</dimen>
+    <dimen name="card_corner_radius">15dp</dimen>
+    <dimen name="card_spacing">14dp</dimen>
+    <dimen name="card_padding">10dp</dimen>
+    <dimen name="logo_size">72dp</dimen>
+    <dimen name="card_content_spacing">8dp</dimen>
+    <dimen name="student_name_size">17sp</dimen>
+    <dimen name="student_detail_size">13sp</dimen>
+    <dimen name="footer_top_spacing">14dp</dimen>
+    <dimen name="footer_bottom_spacing">12dp</dimen>
+    <dimen name="footer_text_size">13sp</dimen>
+</resources>
