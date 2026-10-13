@@ -8,7 +8,7 @@
     <dimen name="card_corner_radius">17dp</dimen>
     <dimen name="card_spacing">16dp</dimen>
     <dimen name="card_padding">10dp</dimen>
-    <dimen name="logo_size">72dp</dimen>
+    <dimen name="logo_size">74dp</dimen>
     <dimen name="card_content_spacing">8dp</dimen>
     <dimen name="student_name_size">17sp</dimen>
     <dimen name="student_detail_size">13sp</dimen>
