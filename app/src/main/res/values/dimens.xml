@@ -4,7 +4,7 @@
     <dimen name="header_title_size">26sp</dimen>
     <dimen name="header_subtitle_size">15sp</dimen>
     <dimen name="header_bottom_spacing">18dp</dimen>
-    <dimen name="card_height">108dp</dimen>
+    <dimen name="card_height">112dp</dimen>
     <dimen name="card_corner_radius">17dp</dimen>
     <dimen name="card_spacing">16dp</dimen>
     <dimen name="card_padding">10dp</dimen>
