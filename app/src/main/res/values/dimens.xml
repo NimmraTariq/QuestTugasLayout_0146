@@ -14,5 +14,5 @@
     <dimen name="student_detail_size">13sp</dimen>
     <dimen name="footer_top_spacing">14dp</dimen>
     <dimen name="footer_bottom_spacing">12dp</dimen>
-    <dimen name="footer_text_size">13sp</dimen>
+    <dimen name="footer_text_size">14sp</dimen>
 </resources>
